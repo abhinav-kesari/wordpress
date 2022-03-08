@@ -2,7 +2,7 @@ version: 0.2
 
 env:
    parameter-store:
-           DB_USER: "/ankur/db2user"
+           DB_USER: "/ankur/db2user2"
            DB_PASSWORD: "/ankur/db2pass"
            DB_HOST: "/ankur/db2host"
            DB_NAME: "/ankur/db2name"
